@@ -1,0 +1,332 @@
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: #9ed56b;
+}
+
+header .color {
+    color: white;
+}
+
+.head {
+    width: 13%;
+    position: relative;
+    left: 588px;
+}
+
+li {
+    display: inline;
+    padding: 16px;
+    color: white;
+}
+
+.color {
+    color: white;
+}
+
+ul {
+    text-align: right;
+    margin: 23px 0px;
+}
+
+.sub_head {
+    font-size: 27px;
+    padding: 40px;
+    position: relative;
+    left: 342px;
+    color: white;
+}
+
+.sign_up {
+    padding: 20px;
+    width: 185px;
+    color: white;
+    border: 2px solid white;
+    background-color: #9ed56b;
+    position: relative;
+    top: 54px;
+    left: 573px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.login_link {
+    color: white;
+    position: relative;
+    left: 376px;
+    top: 112px;
+    font-size: 14px;
+}
+
+.sign_up:hover {
+    background-color: #efa670;
+}
+
+.video {
+    position: relative;
+    left: 456px;
+}
+
+.row [class^="col-md-*"] {
+    height: 100%;
+}
+
+.container {
+    overflow: hidden;
+}
+
+.img_laser {
+    width: 1188px;
+    height: 615px;
+}
+
+.page1 {
+    height: 680px;
+}
+
+.page2 {
+    background-color: white;
+}
+
+.page3 {
+    background-color: #eee;
+}
+
+.page4 {
+    background-color: white;
+
+}
+
+.page5 {
+    color: white;
+    height: 380px;
+}
+
+.list {
+    display: block;
+    border-bottom: 1px dashed #67d7c4;
+    color: black;
+}
+
+.list_grp {
+    background-color: white;
+}
+
+.submit {
+    padding: 20px;
+    width: 159px;
+    border-radius: 8px;
+    color: white;
+    border: 2px solid white;
+    background-color: #9ed56b;
+    position: relative;
+    top: 10px;
+    left: 97px
+}
+
+.page2_head {
+    font-size: 27px;
+    padding: 10px 45px;
+}
+
+.intro {
+    width: 376px;
+    margin: 190px 114px;
+}
+
+.map {
+    margin: 50px;
+}
+
+.page2_link {
+    position: relative;
+    top: 25px;
+    left: 26px;
+}
+
+.page3_para {
+    margin: 66px 0px;
+}
+
+.page3_head {
+    margin: 20px 350px;
+}
+
+.para {
+    padding: 25px 333px;
+    margin: 0px;
+    font-size: 18px;
+}
+
+h1 {
+    padding: 30px;
+}
+
+
+
+.list_grp li {
+    border-bottom: 1px dashed #67d7c4;
+    text-align: center;
+    color: black;
+    display: block;
+    line-height: 0px;
+}
+
+
+
+
+.plan_free {
+    border-radius: 8px;
+    background-color: #67d7c4;
+    padding: 28px;
+}
+
+.plan_Awesome {
+    border-radius: 8px;
+    background-color: #7aa3e5;
+    padding: 28px;
+}
+
+.plan_Organisation {
+    border-radius: 8px;
+    background-color: #988ee3;
+    padding: 28px;
+}
+
+.lnk {
+    color: blue;
+}
+
+.icon {
+    height: 75px;
+    width: 54px;
+}
+
+.description {
+    line-height: 160%;
+    font-size: 14px;
+    margin-top: 20px;
+    padding: 0px 63px;
+}
+
+.usecase {
+    display: inline-block;
+    width: 33%;
+    vertical-align: top;
+    position: relative;
+    top: 50px;
+}
+
+.signup {
+    color: white;
+    position: relative;
+    top: 89px;
+
+}
+
+a {
+    color: white;
+    font-size: 17px;
+}
+
+a:hover {
+    color: white;
+}
+
+.last_page {
+    background-color: white;
+    padding: 80px 0px;
+}
+
+.image {
+    width: 130px;
+    height: 130px;
+    border: 2px solid #e9e9e9;
+    padding: 0px;
+    margin-bottom: 10px;
+    width: 130px;
+    height: 130px;
+    border-radius: 100px;
+}
+
+.foot {
+    padding: 20px 60px;
+}
+
+
+.title {
+    font-size: 25px;
+}
+
+.desc {
+    width: 80%;
+}
+
+.currency {
+    font-size: 25px;
+    position: relative;
+    bottom: 10px;
+}
+
+.price {
+    font-size: 58px;
+}
+
+.pricing {
+    padding: 18px;
+    color: white;
+}
+
+.outline1 {
+    color: white;
+    background-color: #67d7c4;
+    border-radius: 8px;
+    padding: 10px;
+    border: 2px solid white;
+    width: 85%;
+}
+
+.outline2 {
+    color: #7aa3e5;
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    border: 2px solid white;
+    width: 85%;
+}
+
+.outline3 {
+    color: white;
+    background-color: #988ee3;
+    border-radius: 8px;
+    padding: 10px;
+    border: 2px solid white;
+    width: 85%;
+}
+
+.plan_free,
+.plan_Awesome,
+.plan_Organisation p {
+    color: white;
+}
+
+.awesome-feature{
+  background-color:#7aa3e5;
+  border-radius: 4px;
+  font-size: 12px;
+  padding: 2px;
+  position: relative;
+  bottom: 6px;
+
+}
+.login{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
